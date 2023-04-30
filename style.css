@@ -99,6 +99,7 @@ main {
     #testimonials-container {
         display: flex;
         flex-direction: column;
+        padding: 2rem;
     }
     
 }
