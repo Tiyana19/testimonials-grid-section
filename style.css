@@ -80,7 +80,7 @@ main {
 .card-3 img, .card-5 img {
     border: 1px #000 solid;
 }
-.testimonial>p:nth-child(2) {
+.testimonial h3 {
     font-size: 1.5rem;
     margin: 2rem 0;
 }
